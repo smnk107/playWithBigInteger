@@ -7,9 +7,14 @@ Here we can handle numbers having digit upto 1000.
 
 We can performs operations like:
 
-1.Factorial of large numbers
-2.Large Fibonacci. 
+1.Factorial of large numbers.
+
+2.Large Fibonacci.
+
 3.Multiplication of two large numbers.
+
 4.Addition.
+
 5.Subtraction.
+
 6.Comparison of two numbers.
